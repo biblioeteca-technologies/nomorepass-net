@@ -1,5 +1,0 @@
-C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\obj\Release\net4.7.2\nomorepass-net.csproj.AssemblyReference.cache
-C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\obj\Release\net4.7.2\nomorepass-net.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\obj\Release\net4.7.2\nomorepass-net.AssemblyInfoInputs.cache
-C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\obj\Release\net4.7.2\nomorepass-net.AssemblyInfo.cs
-C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\obj\Release\net4.7.2\nomorepass-net.csproj.CoreCompileInputs.cache
