@@ -1,0 +1,7 @@
+C:\Users\biblioeteca\Desktop\lib-net\example\exampleNoMorePassNet\exampleNoMorePassNet\obj\Debug\net5.0-windows\exampleNoMorePassNet.csproj.AssemblyReference.cache
+C:\Users\biblioeteca\Desktop\lib-net\example\exampleNoMorePassNet\exampleNoMorePassNet\obj\Debug\net5.0-windows\exampleNoMorePassNet.Form1.resources
+C:\Users\biblioeteca\Desktop\lib-net\example\exampleNoMorePassNet\exampleNoMorePassNet\obj\Debug\net5.0-windows\exampleNoMorePassNet.csproj.GenerateResource.cache
+C:\Users\biblioeteca\Desktop\lib-net\example\exampleNoMorePassNet\exampleNoMorePassNet\obj\Debug\net5.0-windows\exampleNoMorePassNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biblioeteca\Desktop\lib-net\example\exampleNoMorePassNet\exampleNoMorePassNet\obj\Debug\net5.0-windows\exampleNoMorePassNet.AssemblyInfoInputs.cache
+C:\Users\biblioeteca\Desktop\lib-net\example\exampleNoMorePassNet\exampleNoMorePassNet\obj\Debug\net5.0-windows\exampleNoMorePassNet.AssemblyInfo.cs
+C:\Users\biblioeteca\Desktop\lib-net\example\exampleNoMorePassNet\exampleNoMorePassNet\obj\Debug\net5.0-windows\exampleNoMorePassNet.csproj.CoreCompileInputs.cache

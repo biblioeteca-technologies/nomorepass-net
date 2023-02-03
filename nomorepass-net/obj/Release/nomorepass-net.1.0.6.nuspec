@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>nomorepass-net</id>
+    <version>1.0.6</version>
+    <authors>nomorepass-net</authors>
+    <icon>NoMorePassLogo.png</icon>
+    <readme>README.md</readme>
+    <description>C# Libraries for nomorepass.com public API.</description>
+    <tags>nomorepass</tags>
+    <repository url="https://git.biblioetech.com/nomorepass/lib-net" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2">
+        <dependency id="Newtonsoft.Json" version="13.0.2" exclude="Build,Analyzers" />
+        <dependency id="System.Security.Permissions" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETFramework4.8">
+        <dependency id="Newtonsoft.Json" version="13.0.2" exclude="Build,Analyzers" />
+        <dependency id="System.Security.Permissions" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net5.0">
+        <dependency id="Newtonsoft.Json" version="13.0.2" exclude="Build,Analyzers" />
+        <dependency id="System.Security.Permissions" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net6.0">
+        <dependency id="Newtonsoft.Json" version="13.0.2" exclude="Build,Analyzers" />
+        <dependency id="System.Security.Permissions" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework="net7.0">
+        <dependency id="Newtonsoft.Json" version="13.0.2" exclude="Build,Analyzers" />
+        <dependency id="System.Security.Permissions" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Newtonsoft.Json" version="13.0.2" exclude="Build,Analyzers" />
+        <dependency id="System.Security.Permissions" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Newtonsoft.Json" version="13.0.2" exclude="Build,Analyzers" />
+        <dependency id="System.Security.Permissions" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Net.Http" targetFramework=".NETFramework4.7.2, .NETFramework4.8" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\bin\Release\net472\nomorepass-net.dll" target="lib\net472\nomorepass-net.dll" />
+    <file src="C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\bin\Release\net48\nomorepass-net.dll" target="lib\net48\nomorepass-net.dll" />
+    <file src="C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\bin\Release\net5.0\nomorepass-net.dll" target="lib\net5.0\nomorepass-net.dll" />
+    <file src="C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\bin\Release\net6.0\nomorepass-net.dll" target="lib\net6.0\nomorepass-net.dll" />
+    <file src="C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\bin\Release\net7.0\nomorepass-net.dll" target="lib\net7.0\nomorepass-net.dll" />
+    <file src="C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\bin\Release\netstandard2.0\nomorepass-net.dll" target="lib\netstandard2.0\nomorepass-net.dll" />
+    <file src="C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\bin\Release\netstandard2.1\nomorepass-net.dll" target="lib\netstandard2.1\nomorepass-net.dll" />
+    <file src="C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\bin\Release\NoMorePassLogo.png" target="\NoMorePassLogo.png" />
+    <file src="C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\bin\Release\README.md" target="\README.md" />
+  </files>
+</package>

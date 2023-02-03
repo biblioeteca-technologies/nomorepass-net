@@ -1,0 +1,14 @@
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\obj\Debug\net472\nomorepass-net.csproj.AssemblyReference.cache
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\obj\Debug\net472\nomorepass-net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\obj\Debug\net472\nomorepass-net.AssemblyInfoInputs.cache
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\obj\Debug\net472\nomorepass-net.AssemblyInfo.cs
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\obj\Debug\net472\nomorepass-net.csproj.CoreCompileInputs.cache
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\bin\Debug\net472\nomorepass-net.dll
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\bin\Debug\net472\nomorepass-net.pdb
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\bin\Debug\net472\Newtonsoft.Json.dll
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\bin\Debug\net472\System.Security.AccessControl.dll
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\bin\Debug\net472\System.Security.Permissions.dll
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\bin\Debug\net472\System.Security.Principal.Windows.dll
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\obj\Debug\net472\nomorepass-net.csproj.CopyComplete
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\obj\Debug\net472\nomorepass-net.dll
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\obj\Debug\net472\nomorepass-net.pdb

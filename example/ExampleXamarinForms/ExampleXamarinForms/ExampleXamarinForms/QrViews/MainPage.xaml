@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ExampleXamarinForms.MainPage">
+    <StackLayout x:Name="stkQR">
+        <Frame BackgroundColor="#2196F3"
+               Padding="24"
+               CornerRadius="0">
+            <Label Text="Testing API NoMorePass-Net"
+                   HorizontalTextAlignment="Center"
+                   TextColor="White"
+                   FontSize="36"
+                   Margin="0,-30,0,20"/>
+        </Frame>
+        <Label Text="You can use this library in combination with nomorepass app (nomorepass.com) to send or receive passwords in a safe an easy way.
+                     The library doesn´t generate / print the qr-code, instead provides the text that should be included in the qrcode 
+                     (you can generate using any qrcode libraries)."
+               FontSize="20"
+               Padding="30,65,30,10"
+               HorizontalTextAlignment="Center" />
+        <Button x:Name="QrGenerator"
+                Text="Qr to send the password"
+                Clicked="QrButtonSend_Clicked"
+                IsEnabled="True"
+                Margin="40,60,40,0"
+                CornerRadius="10"></Button>
+        <Button x:Name="QrGenerator2"
+                Text="Qr to receive a password"
+                Clicked="QrButtonGet_Clicked"
+                IsEnabled="True"
+                Margin="40,20,40,0"
+                CornerRadius="10"></Button>
+    </StackLayout>
+</ContentPage>

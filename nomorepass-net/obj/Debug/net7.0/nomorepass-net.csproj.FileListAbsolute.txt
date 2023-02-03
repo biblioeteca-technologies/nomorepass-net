@@ -1,0 +1,12 @@
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\bin\Debug\net7.0\nomorepass-net.deps.json
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\bin\Debug\net7.0\nomorepass-net.dll
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\bin\Debug\net7.0\nomorepass-net.pdb
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\obj\Debug\net7.0\nomorepass-net.csproj.AssemblyReference.cache
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\obj\Debug\net7.0\nomorepass-net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\obj\Debug\net7.0\nomorepass-net.AssemblyInfoInputs.cache
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\obj\Debug\net7.0\nomorepass-net.AssemblyInfo.cs
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\obj\Debug\net7.0\nomorepass-net.csproj.CoreCompileInputs.cache
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\obj\Debug\net7.0\nomorepass-net.dll
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\obj\Debug\net7.0\refint\nomorepass-net.dll
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\obj\Debug\net7.0\nomorepass-net.pdb
+C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\obj\Debug\net7.0\ref\nomorepass-net.dll

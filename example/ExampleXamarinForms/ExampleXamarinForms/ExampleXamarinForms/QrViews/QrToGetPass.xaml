@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ExampleXamarinForms.QrViews.QrToGetPass">
+    <ContentPage.Content>
+        <StackLayout x:Name="stkQR">
+            <Frame BackgroundColor="#2196F3"
+                   Padding="24"
+                   CornerRadius="0">
+                <Label Text="Testing API NoMorePass-Net"
+                       HorizontalTextAlignment="Center"
+                       TextColor="White"
+                       FontSize="36" />
+            </Frame>
+            <Label Text="Qr to receive a password from the phone"
+                   FontSize="20"
+                   Padding="30,10,30,10"
+                   HorizontalTextAlignment="Center" />
+            <Entry x:Name="EntryQR"
+                   IsReadOnly="True"
+                   Text=""
+                   Placeholder="Username"></Entry>
+            <Entry x:Name="EntryQRPass"
+                   IsReadOnly="True"
+                   Text=""
+                   Placeholder="Password"></Entry>
+            <Button x:Name="QrGenerator"
+                    Text="Qr to receive a password"
+                    Clicked="QrButtonSend_Clicked"
+                    IsEnabled="True"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

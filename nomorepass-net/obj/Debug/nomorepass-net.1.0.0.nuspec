@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>nomorepass-net</id>
+    <version>1.0.0</version>
+    <authors>nomorepass-net</authors>
+    <icon>NoMorePassLogo.png</icon>
+    <readme>README.md</readme>
+    <description>C# Libraries for nomorepass.com public API.</description>
+    <tags>nomorepass</tags>
+    <repository url="https://git.biblioetech.com/nomorepass/lib-net" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Newtonsoft.Json" version="13.0.2" exclude="Build,Analyzers" />
+        <dependency id="System.Security.Permissions" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\bin\Debug\net6.0\nomorepass-net.dll" target="lib\net6.0\nomorepass-net.dll" />
+    <file src="C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\NoMorePassLogo.png" target="\NoMorePassLogo.png" />
+    <file src="C:\Users\biblioeteca\Desktop\lib-net\lib\nomorepass-net\nomorepass-net\README.md" target="\README.md" />
+  </files>
+</package>
